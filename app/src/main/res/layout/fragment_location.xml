@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TEMPAT WISATA YANG MENAWARKAN PEMANDANGAN INDAH"
+            android:fontFamily=""
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center_horizontal"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_marginTop="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Cukul Sunrise Point"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+        <ImageView
+            android:layout_width="434dp"
+            android:layout_height="250dp"
+            android:src="@drawable/location_img1"
+            android:layout_marginBottom="20px"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pemandangan utama di sini adalah hamparan perkebunan teh yang hijau menyejukkan mata. Terlihat pula kaki Gunung Wayang, serta jalanan berkelok di bawah yang mengitari perkebunan teh yang terlihat kecil saat kita berdiri di atas bukit Cukul Sunrise Point Pangelengan, Kabupaten Bandung ini."
+            android:textSize="18dp"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Gunung Tangkuban Perahu"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="#ffffff"/>
+
+        <ImageView
+            android:layout_width="439dp"
+            android:layout_height="298dp"
+            android:layout_marginBottom="20px"
+            android:src="@drawable/location_img2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gunung Tangkuban Parahu adalah salah satu gunung yang terletak di Provinsi Jawa Barat, Indonesia. Sekitar 20 km ke arah utara Kota Bandung, dengan rimbun pohon pinus dan hamparan kebun teh di sekitarnya, Gunung Tangkuban Parahu mempunyai ketinggian setinggi 2.084 meter. Bentuk gunung ini adalah Stratovulcano dengan pusat erupsi yang berpindah dari timur ke barat. Jenis batuan yang dikeluarkan melalui letusan kebanyakan adalah lava dan sulfur, mineral yang dikeluarkan adalah sulfur belerang, mineral yang dikeluarkan saat gunung tidak aktif adalah uap belerang. Daerah Gunung Tangkuban Parahu dikelola oleh Perum Perhutanan. Suhu rata-rata hariannya adalah 17C pada siang hari dan 2 °C pada malam hari."
+            android:textSize="18dp"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Grafika Cikole"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="#ffffff"/>
+
+        <ImageView
+            android:layout_width="459dp"
+            android:layout_height="310dp"
+            android:layout_marginBottom="20px"
+            android:src="@drawable/location_img3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Terminal wisata grafika cikole adalah tempat wisata, restoran serta penginapan di lembang yang berada di kaki gunung dengan ketinggian 1400 meter di atas permukaan laut. Udara yang sejuk dengan suhu 20 derajat celcius dan kontur area Terminal Wisata Grafika Cikole yang berbukit dikelilingi hutan pinus di area seluas 9 hektar merupakan tempat wisata di bandung lembang yang tepat untuk menyelenggrakan aktifitas outbound bagi keluarga, instansi, sekolah dan keluarga."
+            android:textSize="18dp"
+            android:textColor="#ffffff"/>
+
+    </LinearLayout>
+
+
+</ScrollView>
